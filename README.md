@@ -13,7 +13,7 @@ logo
 请发简历到邮箱 cxyms@foxmail.com  邮件注明投递的岗位+城市
 
 ### 公众号直达
-![markdown](https://github.com/cxyms/Java-Interview/blob/master/images/scan.png "markdown")
+![markdown](https://github.com/cxyms/Java-Interview/blob/master/images/scan3.png "markdown")
 ### 赞助我们
 ![markdown](https://github.com/cxyms/Java-Interview/blob/master/images/pay2.png "markdown")
 ### 免责声明 - （只供学习参考）
